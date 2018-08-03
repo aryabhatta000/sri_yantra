@@ -1,0 +1,12 @@
+"""
+{6:petal.of.MULADHARA}
+{8:petal.of.SRIYANTRA} 
+"""
+[1:speech]=
+[2:grasping]=
+[3:motion]=
+[4:excretion]=
+[5:enjoyment]=
+[6:repulsion]=
+[7:attraction]=
+[8:impartiality]=
