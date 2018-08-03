@@ -1,0 +1,20 @@
+"""
+{4:petal.of.MULADHARA}
+{16:petal.of.SRIYANTRA} 
+"""
+[1:desire]=[ काम (https://translate.google.com/#hi/en/%E0%A4%95%E0%A4%BE%E0%A4%AE) : 愿望 (https://translate.google.com/#zh-CN/en/%E6%AC%B2%E6%9C%9B) ]
+[2:intellect]=[ बुद्धि (https://translate.google.com/#hi/en/%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF) : 智力 (https://translate.google.com/#zh-CN/en/%E6%99%BA%E5%8A%9B) ]
+[3:ego]=[ अहं (https://translate.google.com/#hi/en/%E0%A4%85%E0%A4%B9%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B0) : 自我 (https://translate.google.com/#zh-CN/en/%E8%87%AA%E6%88%91) ]
+[4:word]=[ शब्द (https://translate.google.com/#hi/en/%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6) : 字 (https://translate.google.com/#zh-CN/en/%E5%AD%97) ]
+[5:touch]=[ स्पर्श (https://translate.google.com/#hi/en/%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B6) : 触摸 (https://translate.google.com/#zh-CN/en/%E8%A7%A6%E6%91%B8)]
+[6:form]=[ रूप (https://translate.google.com/#hi/en/%E0%A4%B0%E0%A5%82%E0%A4%AA) : 形成 (https://translate.google.com/#zh-CN/en/%E5%BD%A2%E6%88%90) ]
+[7:taste]
+[8:smell]
+[9:mind]
+[10:endurance]=[ धैर्य (https://translate.google.com/#hi/en/%E0%A4%A7%E0%A5%88%E0%A4%B0%E0%A5%8D%E0%A4%AF) : () ]
+[11:memory]
+[12:name]
+[13:origin]
+[14:soul]
+[15:immortality]
+[16:body]
